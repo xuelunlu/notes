@@ -24,7 +24,7 @@
 		</tr>
 		<tr>
 			<td>企劃</td>
-			<td><a href="https://docs.google.com/spreadsheets/d/14lYTQdoj3cvejK0A266BPbSWu7Ok-puwOkmMopCotCM/edit?ts=5ac1e177#gid=0" target="_blank">時程</a> <a href="https://drive.google.com/file/d/1IRkbiQIJGuDljrFK-NV4cMcGMTOkJVbu/view?ts=5ad58f2c" target="_blank">開飛機</a></td>
+			<td><a href="https://docs.google.com/spreadsheets/d/14lYTQdoj3cvejK0A266BPbSWu7Ok-puwOkmMopCotCM/edit?ts=5ac1e177#gid=0" target="_blank">時程</a> <a href="https://drive.google.com/drive/u/0/folders/1h70b-MWVx3c8KvSkiIuJZqcwjoA67P64" target="_blank">開飛機</a></td>
 			<td></td>
 		</tr>
 	</tbody>

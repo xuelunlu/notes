@@ -25,11 +25,11 @@
 					</li>
 					<li class="nav-item dropdown">
 						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-							Dropdown
+							Install
 						</a>
 						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-							<a class="dropdown-item" href="#">Action</a>
-							<a class="dropdown-item" href="#">Another action</a>
+							<a class="dropdown-item" href="install_php7.php">Install php7</a>
+							<a class="dropdown-item" href="install_nodejs6.php">Install nodejs6</a>
 							<div class="dropdown-divider"></div>
 							<a class="dropdown-item" href="#">Something else here</a>
 						</div>
@@ -49,8 +49,8 @@
 				<div class="col-md-2">
 					<div class="list-group">
 						<a href="index.php" class="list-group-item list-group-item-action">專案</a>
-						<a href="#" class="list-group-item list-group-item-action">Dapibus ac facilisis in</a>
-						<a href="#" class="list-group-item list-group-item-action">Morbi leo risus</a>
+						<a href="install_php7.php" class="list-group-item list-group-item-action">Install php7</a>
+						<a href="install_nodejs6.php" class="list-group-item list-group-item-action">Install nodejs6</a>
 						<a href="#" class="list-group-item list-group-item-action">Porta ac consectetur ac</a>
 						<a href="#" class="list-group-item list-group-item-action">Vestibulum at eros</a>
 					</div>

@@ -49,8 +49,8 @@
 				<div class="col-md-2">
 					<div class="list-group">
 						<a href="index.php" class="list-group-item list-group-item-action">專案</a>
-						<a href="install_php7.php" class="list-group-item list-group-item-action">Install php7</a>
-						<a href="install_nodejs6.php" class="list-group-item list-group-item-action">Install nodejs6</a>
+						<a href="git.php" class="list-group-item list-group-item-action">git 指令</a>
+						<a href="centos.php" class="list-group-item list-group-item-action">centos 指令</a>
 						<a href="#" class="list-group-item list-group-item-action">Porta ac consectetur ac</a>
 						<a href="#" class="list-group-item list-group-item-action">Vestibulum at eros</a>
 					</div>

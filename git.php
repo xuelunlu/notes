@@ -16,4 +16,5 @@ git config --global color.ui true(為git指令的輸出結果加上顏色)<br>
 <h3 style="color: #0000FF;">其他:</h3>
 git log -2 --stat<br>
 刪除遠端分支:git push origin :遠端分支名<br>
+<a target="_blank" href="https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/">Adding an existing project to GitHub using the command line</a><br>
 <?php include('bottom.php'); ?>

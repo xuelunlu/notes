@@ -1,0 +1,86 @@
+body {
+	font-family: '微軟正黑體';
+}
+
+legend {
+	border-bottom: solid 1px #ebebeb;
+}
+
+.court-blue {
+	color: #59798b;
+}
+
+.app-orange {
+	color: #ff7f66;
+}
+
+.court-title {
+	color: #59798b;
+	text-shadow: 1px 1px #7cc0e5;
+}
+
+.btn-orange {
+	background-color: #ff7f66;
+	color: #FFF;
+}
+
+.btn-orange:hover {
+	color: #FFF;
+}
+
+.response-media {
+	border-bottom: solid 1px #ebebeb;
+}
+
+#main-jumbotron-outer-1 {
+	background: url(../images/page_block_bg.png) 0 0 repeat
+}
+
+#main-jumbotron-outer-2 {
+	background: url(../images/p1_bot.png) 0 bottom repeat-x
+}
+
+#main-jumbotron {
+	background-color: transparent;
+}
+
+@media (min-width:768px) {
+	#main-jumbotron {
+		background: url(../images/10617645.png) right bottom no-repeat
+	}
+
+}
+
+#main-jumbotron h1 a {
+	color: #ff7f66;
+	text-decoration: none;
+}
+
+#main-jumbotron p {
+	color: #59798b;
+}
+
+.nav-item {
+	background: url(../images/menu_bg.png) 0 bottom repeat-x #ff8f79;
+}
+
+.nav-item .nav-link {
+	color: #fff;
+	background: url(../images/menu_sep.gif) 0 0 repeat-y;
+}
+
+.nav-item:hover {
+	background: url(../images/menu_hover.png) 0 bottom repeat-x;
+}
+
+#k-section {
+	background: url(../images/page_block_bg.png) 0 0 repeat
+}
+
+#footer {
+	background-color: #17242c;
+}
+
+#footer h3 {
+	color: #86cefc;
+}

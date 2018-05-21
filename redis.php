@@ -8,9 +8,11 @@
 	<li><a href="https://github.com/nrk/predis" target="_blank">程式庫</a></li>
 	<li><a href="http://squizzle.me/php/predis/doc/" target="_blank">doc</a></li>
 </ul>
-[code type="php"]
+<pre>
+<code class="php">       
 $CI = &get_instance();
-$redis_config = $CI->config->item(\'redis\');
+$redis_config = $CI->config->item('redis');
 $this->predis = new \Predis\Client($redis_config);
-[/code]
+</code>
+</pre>
 <?php include('bottom.php'); ?>

@@ -55,6 +55,8 @@
                         <a href="resource.php" class="list-group-item list-group-item-action">資源</a>
                         <a href="php.php" class="list-group-item list-group-item-action">PHP Code</a>
                         <a href="composer.php" class="list-group-item list-group-item-action">如何為網站建立 Composer 套件管理工具？</a>
+                        <a href="package_control.php" class="list-group-item list-group-item-action">Package Control</a>
+                        <a href="docker.php" class="list-group-item list-group-item-action">docker 指令</a>
                         <a href="other.php" class="list-group-item list-group-item-action">其他教學</a>
                     </div>
                 </div>

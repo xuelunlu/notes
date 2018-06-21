@@ -1,4 +1,55 @@
 <?php include('top.php'); ?>
+<form>
+	<div class="form-group form-check form-check-inline">
+		<input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1">
+		<label class="form-check-label" for="inlineRadio1">個人用二聯式傳統發票</label>
+	</div>
+	<div class="form-group form-check form-check-inline">
+		<input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
+		<label class="form-check-label" for="inlineRadio2">個人用二聯式電子發票（無載具）</label>
+	</div>
+	<div class="form-group form-check form-check-inline">
+		<input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
+		<label class="form-check-label" for="inlineRadio2">個人用二聯式電子發票（自然人憑證載具）</label>
+	</div>
+	<div class="form-group form-check form-check-inline">
+		<input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio3" value="option3">
+		<label class="form-check-label" for="inlineRadio3">公司用三聯式傳統發票</label>
+	</div>
+	<div class="form-group form-check form-check-inline">
+		<input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio4" value="option4">
+		<label class="form-check-label" for="inlineRadio4">捐贈</label>
+	</div>
+	<div class="form-group">
+		<label for="exampleInputEmail1">發票寄送地址:</label>
+		<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="">
+		<small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+	</div>
+	<div class="form-row">
+		<div class="form-group col-md-4">
+			<label for="inputEmail4">自然人憑證條碼:</label>
+			<input type="email" class="form-control" id="inputEmail4" placeholder="">
+		</div>
+		<div class="form-group col-md-8">
+			
+		</div>
+	</div>
+	<div class="form-row">
+		<div class="form-group col-md-4">
+			<label for="inputEmail4">買受人:</label>
+			<input type="email" class="form-control" id="inputEmail4" placeholder="">
+		</div>
+		<div class="form-group col-md-4">
+			<label for="inputPassword4">統一編號:</label>
+			<input type="text" class="form-control" id="inputPassword4" placeholder="">
+		</div>
+		<div class="form-group col-md-4">
+			<label for="inputEmail4">發票寄送地址:</label>
+			<input type="email" class="form-control" id="inputEmail4" placeholder="">
+		</div>
+	</div>
+	<button type="submit" class="btn btn-primary">Submit</button>
+</form>
 <h3 style="color: #0000FF;">jp_guam_front</h3>
 <table>
 	<thead>
@@ -114,4 +165,12 @@
 		</tr>
 	</tbody>
 </table>
+alias gpull='sudo -H -u apache git pull'<br>
+alias gadd='sudo -H -u apache git add'<br>
+alias gcommit='sudo -H -u apache git commit'<br>
+alias gpush='sudo -H -u apache git push'<br>
+alias gst='sudo -H -u apache git status'<br>
+alias gch='sudo -H -u apache git checkout'<br>
+alias gbr='sudo -H -u apache git branch'<br>
+alias apa='sudo -H -u apache'<br>
 <?php include('bottom.php'); ?>

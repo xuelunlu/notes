@@ -17,4 +17,5 @@ git config --global color.ui true(為git指令的輸出結果加上顏色)<br>
 git log -2 --stat<br>
 刪除遠端分支:git push origin :遠端分支名<br>
 <a target="_blank" href="https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/">Adding an existing project to GitHub using the command line</a><br>
+<a target="_blank" href="https://zlargon.gitbooks.io/git-tutorial/content/remote/upstream.html">設定 Upstream</a><br>
 <?php include('bottom.php'); ?>

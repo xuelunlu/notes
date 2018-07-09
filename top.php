@@ -41,6 +41,12 @@
                             <a class="dropdown-item" href="install_rabbitmq.php">Install rabbitmq</a>
                         </div>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="legal.php">法律</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Marketing.php">數位行銷</a>
+                    </li>
                 </ul>
             </div>
         </nav>

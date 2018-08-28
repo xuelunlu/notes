@@ -17,6 +17,7 @@
 <ul>
 	<li>Ctrl + Alt + A.</li>
 </ul>
+<h3>Minify:</h3>
 <h3>HTMLBeautify:</h3>
 <ul>
 	<li>Ctrl + Alt + Shift + F.</li>

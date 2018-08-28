@@ -4,6 +4,8 @@
 	<li><a target="_blank" href="https://www.mantisbt.org/">MantisBT</a></li>
 	<li><a target="_blank" href="http://wideimage.sourceforge.net/">WideImage</a></li>
 	<li><a target="_blank" href="http://phpseclib.sourceforge.net/">phpseclib</a></li>
+	<li><a target="_blank" href="https://github.com/filamentgroup/loadJS">loadJS</a></li>
+	<li><a target="_blank" href="https://github.com/filamentgroup/loadCSS">loadCSS</a></li>
 </ul>
 <h3 style="color: #0000FF;">drupal:</h3>
 <ul>

@@ -5,14 +5,14 @@
 	<li>yum install centos-release-scl</li>
 	<li>yum install httpd24</li>
 	<li>yum install rh-mysql57-mysql-server</li>
-	<li>yum install rh-php70-php rh-php70-php-mbstring rh-php70-php-mysqlnd rh-php70-php-gd</li>
+	<li>yum install rh-php70-php rh-php70-php-mbstring rh-php70-php-mysqlnd rh-php70-php-gd rh-php70-php-opcache</li>
 </ul>
 <h3>建立軟連結:</h3>
 <ul>
 	<li>ln -s /opt/rh/rh-mysql57/root/usr/bin/mysql /usr/bin/mysql</li>
 	<li>ln -s /opt/rh/rh-mysql57/root/usr/bin/mysqladmin /usr/bin/mysqladmin</li>
 	<li>ln -s /opt/rh/rh-mysql57/root/usr/bin/mysqldump /usr/bin/mysqldump</li>
-	<li>ln -s /opt/rh/rh-php70/root/usr/bin/php /usr/bin/php70</li>
+	<li>ln -s /opt/rh/rh-php70/root/usr/bin/php /usr/bin/php</li>
 </ul>
 <h3>啟動指令:</h3>
 <ul>
@@ -51,6 +51,10 @@
 		DocumentRoot /opt/rh/httpd24/root/var/www/html/tool
 		&lt/VirtualHost&gt
 	</pre></li>
+</ul>
+<h3>其他:</h3>
+<ul>
+	<li>git clone https://github.com/amnuts/opcache-gui.git</li>
 </ul>
 <h3>參考:</h3>
 <ul>
